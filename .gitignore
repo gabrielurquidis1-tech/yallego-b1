@@ -221,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos originales y bases de datos
+data/
+YaLlego/
+*.zip
+*.duckdb
+*.duckdb.wal
+
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
